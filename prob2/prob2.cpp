@@ -217,7 +217,7 @@ public:
 
 int main() {
 	srand(time(0));
-	const int rows = 40, colums = 40;
+	const int rows = 20, colums = 20;
 	int len = 0;
 	zmey* gol = NULL;
 	plus_length(&gol, 0, 0, len);
